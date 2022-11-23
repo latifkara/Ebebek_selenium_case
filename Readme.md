@@ -3,10 +3,6 @@
 1. Menual Test
 
 Sepet sayfasındaki menual test aşağıdaki gibi yapılmıştır.
-<<<<<<< HEAD
-<img src="image/Sepet_ebebek.mp4"/>
-=======
->>>>>>> origin/master
 
 2. Test Otomasyonu (UI)
 
