@@ -4,8 +4,6 @@
 
 Sepet sayfasındaki menual test aşağıdaki gibi yapılmıştır.
 
-<img src="image/Sepet_ebebek_1.gif"/>
-
 2. Test Otomasyonu (UI)
 
 Selenium teknolojisini kullanarak test otomasyon işlemi gerçekleştirilmiştir.
@@ -15,3 +13,4 @@ Java Maven ile test işlemi yapılmış ve başarılı ile başarsız istekler a
    
 
 4. Hata Raporlama 
+hata repoarlama işlemi yapılan  test sonucu sepet sayfasında biirden fazla ürün seçtiğimizde hata meydene gelmektedir.
