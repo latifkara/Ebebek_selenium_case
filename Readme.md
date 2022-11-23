@@ -3,9 +3,8 @@
 1. Menual Test
 
 Sepet sayfasındaki menual test aşağıdaki gibi yapılmıştır.
-<video width="320" height="240" controls>
-  <source src="../image/Sepet_ebebek.mp4" type="video/mp4">
-</video>
+
+<img src="image/Sepet_ebebek_1.gif"/>
 
 2. Test Otomasyonu (UI)
 
