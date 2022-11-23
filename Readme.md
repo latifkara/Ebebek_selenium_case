@@ -3,7 +3,10 @@
 1. Menual Test
 
 Sepet sayfasındaki menual test aşağıdaki gibi yapılmıştır.
+<<<<<<< HEAD
 <img src="image/Sepet_ebebek.mp4"/>
+=======
+>>>>>>> origin/master
 
 2. Test Otomasyonu (UI)
 
@@ -14,3 +17,4 @@ Java Maven ile test işlemi yapılmış ve başarılı ile başarsız istekler a
    
 
 4. Hata Raporlama 
+hata repoarlama işlemi yapılan  test sonucu sepet sayfasında biirden fazla ürün seçtiğimizde hata meydene gelmektedir.
